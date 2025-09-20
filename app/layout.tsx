@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   description:
     "Revolutionizing restaurant experiences with our innovative self-ordering app, Mesob. Streamline operations and enhance customer satisfaction.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
